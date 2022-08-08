@@ -1,0 +1,2 @@
+# exc
+Variuos programming exercises
